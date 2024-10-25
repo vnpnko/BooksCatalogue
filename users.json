@@ -1,0 +1,104 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@inf.elte.hu",
+        "password": "admin",
+        "last_login": "2024-10-25 12:46:51",
+        "evaluations": [],
+        "id": "admin"
+    },
+    "user0": {
+        "username": "Ivan Pylypenko",
+        "email": "rf9r9c@inf.elte.hu",
+        "password": "12345",
+        "last_login": "2024-10-25 12:47:40",
+        "evaluations": [
+            {
+                "book": "book0",
+                "rating": "5",
+                "comment": "The characters felt so real and relatable"
+            },
+            {
+                "book": "book1",
+                "rating": "4",
+                "comment": "Perfect mix of action, drama, and suspense"
+            },
+            {
+                "book": "book6",
+                "rating": "5",
+                "comment": "The best book about startups i have ever read"
+            },
+            {
+                "book": "book3",
+                "rating": "2",
+                "comment": "Way too predictable"
+            }
+        ],
+        "id": "user0"
+    },
+    "user1": {
+        "username": "Peter",
+        "email": "peter@gmail.com",
+        "password": "qwerty",
+        "last_login": "2024-06-05 15:58:01",
+        "evaluations": [],
+        "id": "user1"
+    },
+    "user3": {
+        "username": "Natalii",
+        "email": "natalii@gmail.com",
+        "password": "12345",
+        "last_login": "2024-10-25 12:54:45",
+        "evaluations": [
+            {
+                "book": "book3",
+                "rating": "3",
+                "comment": "The ending was disappointing"
+            }
+        ],
+        "id": "user3"
+    },
+    "user4": {
+        "username": "Igor",
+        "email": "23432@fsdf.fdsf",
+        "password": "qwert",
+        "last_login": "2024-06-08 12:37:39",
+        "evaluations": [],
+        "id": "user4"
+    },
+    "user5": {
+        "username": "Valerii",
+        "email": "valerii@gmai.lcom",
+        "password": "qwerty",
+        "last_login": "2024-06-08 13:36:30",
+        "evaluations": [],
+        "id": "user5"
+    },
+    "user6": {
+        "username": "Rozi Biro",
+        "email": "rozi@gmail.com",
+        "password": "12345678",
+        "last_login": "2024-10-25 12:55:37",
+        "evaluations": [
+            {
+                "book": "book4",
+                "rating": "5",
+                "comment": "A beautiful, moving story that stayed with me"
+            },
+            {
+                "book": "book3",
+                "rating": "2",
+                "comment": "Boring and repetitive plot"
+            }
+        ],
+        "id": "user6"
+    },
+    "user7": {
+        "username": "Anna_1978",
+        "email": "anna@ukr.net",
+        "password": "anna1234",
+        "last_login": "2024-10-25 13:07:51",
+        "evaluations": [],
+        "id": "user7"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "book0": {
+        "title": "Sacrifice Moon",
+        "author": "Julie Fortune",
+        "genre": "Romance",
+        "description": "some desc fro book0.",
+        "year": 2005,
+        "image": "assets\/book_cover_1.png",
+        "planet": "P3X-8596",
+        "ratings": [
+            {
+                "user": "Ivan Pylypenko",
+                "rating": "5",
+                "comment": "The characters felt so real and relatable"
+            }
+        ],
+        "id": "book0"
+    },
+    "book1": {
+        "title": "City of the Gods",
+        "author": "Sonny Whitelaw",
+        "genre": "Romance",
+        "description": "some desc fro book1.",
+        "year": 2005,
+        "image": "assets\/book_cover_2.png",
+        "planet": "P3X-8596",
+        "ratings": [
+            {
+                "user": "Ivan Pylypenko",
+                "rating": "4",
+                "comment": "Perfect mix of action, drama, and suspense"
+            }
+        ],
+        "id": "book1"
+    },
+    "book2": {
+        "title": "Barque of Heaven",
+        "author": "Suzanne Wood",
+        "genre": "Horror",
+        "description": "some desc fro book2.",
+        "year": 2007,
+        "image": "assets\/book_cover_3.png",
+        "planet": "P3X-797",
+        "ratings": [],
+        "id": "book2"
+    },
+    "book3": {
+        "title": "Valhalla",
+        "author": "Tim Waggoner",
+        "genre": "Biography",
+        "description": "some desc fro book3.",
+        "year": 2007,
+        "image": "assets\/book_cover_4.png",
+        "planet": "P3X-797",
+        "ratings": [
+            {
+                "user": "Ivan Pylypenko",
+                "rating": "2",
+                "comment": "Way too predictable"
+            },
+            {
+                "user": "Natalii",
+                "rating": "3",
+                "comment": "The ending was disappointing"
+            },
+            {
+                "user": "Rozi Biro",
+                "rating": "2",
+                "comment": "Boring and repetitive plot"
+            }
+        ],
+        "id": "book3"
+    },
+    "book4": {
+        "title": "Heart's Desire",
+        "author": "Amy Griswold",
+        "genre": "Biography",
+        "description": "some desc fro book4.",
+        "year": 2007,
+        "image": "assets\/book_cover_5.png",
+        "planet": "P3X-797",
+        "ratings": [
+            {
+                "user": "Rozi Biro",
+                "rating": "5",
+                "comment": "A beautiful, moving story that stayed with me"
+            }
+        ],
+        "id": "book4"
+    },
+    "book5": {
+        "title": "Female of the Species",
+        "author": "Geonn Cannon",
+        "genre": "Horror",
+        "description": "some desc fro book5.",
+        "year": 2007,
+        "image": "assets\/book_cover_6.png",
+        "planet": "P3X-797",
+        "ratings": [],
+        "id": "book5"
+    },
+    "book6": {
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "genre": "History",
+        "description": "start up",
+        "year": "2014",
+        "image": "https:\/\/weshape.tech\/wp-content\/uploads\/Zero-to-One.png",
+        "planet": "Earth",
+        "ratings": [
+            {
+                "user": "Ivan Pylypenko",
+                "rating": "5",
+                "comment": "The best book about startups i have ever read"
+            }
+        ],
+        "id": "book6"
+    }
+}
